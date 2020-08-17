@@ -9,7 +9,7 @@ We provide code for applying REWEIGHT to the common sense Knowledge Graphs (KGs)
 
 REWEIGHT weights the triples of common sense KGs based on how reasonable their content is:
 
-![REWEIGHT Pipeline](/imgs/reweight_pipeline.pdf)
+![REWEIGHT Pipeline](/imgs/reweight_pipeline.png)
 
 REWEIGHT generates sentences from the triples, corrects the sentences with a grammar checker, feeds the sentences to a language model, 
 and converts the perplexities (i.e. how likely a sentence is to occur according to the language model) 

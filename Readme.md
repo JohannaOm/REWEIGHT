@@ -18,6 +18,8 @@ into edge weight for the graph.
 Since grammar checker and language model can be freely chosen, this repository contains the code for sentence generation, 
 perplexity to score transformation, and feeding back scores to the graph.
 
+We also provide some graph manipulation methods we used for our ablation study, that might be useful to others: `analysis/ablation_study.py`
+
 ## Usage
 Running REWEIGHT on a KG requires the following steps:
 * Download the KG you wish to REWEIGHT

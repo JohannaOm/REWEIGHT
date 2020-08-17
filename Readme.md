@@ -1,10 +1,10 @@
 
-#LM4KG: Improving Common Sense Knowledge Graphs with Language Models
+# LM4KG: Improving Common Sense Knowledge Graphs with Language Models
 
 This repository contains code for the 2020 ISWC paper 
 "LM4KG: Improving Common Sense Knowledge Graphs with Language Models"
 
-##Contents
+## Contents
 We provide code for applying REWEIGHT to the common sense Knowledge Graphs (KGs) ConceptNet, WebChild, and YAGO. 
 
 REWEIGHT weights the triples of common sense KGs based on how reasonable their content is:
@@ -18,7 +18,7 @@ into edge weight for the graph.
 Since grammar checker and language model can be freely chosen, this repository contains the code for sentence generation, 
 perplexity to score transformation, and feeding back scores to the graph.
 
-##Usage
+## Usage
 Running REWEIGHT on a KG requires the following steps:
 * Download the KG you wish to REWEIGHT
 * Transform the graph to ConceptNet format 
@@ -32,7 +32,7 @@ Examples on transforming WebChild and YAGO are available under
 * Transform the perplexities to edge scores and feed them back into the graph: 
 `graph_reweighting/perplexities_to_scores.py`
 
-##Downloads
+## Downloads
 The following links can be used to download the weighted KGs and 
 KG enriched embeddings presented in the paper:
 * Weighted Knowledge Graphs

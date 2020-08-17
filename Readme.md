@@ -4,6 +4,8 @@
 This repository contains code for the 2020 ISWC paper 
 "LM4KG: Improving Common Sense Knowledge Graphs with Language Models"
 
+(**Note:** Link to paper and citation will be made available upon release of the conference proceedings)
+
 ## Contents
 We provide code for applying REWEIGHT to the common sense Knowledge Graphs (KGs) ConceptNet, WebChild, and YAGO. 
 

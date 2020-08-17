@@ -1,0 +1,11 @@
+/c/af/1	/c/en/1	0.5	/d/dbpedia/en	/r/Synonym
+/c/af/1_konings	/c/af/kon	1.0	/d/wiktionary/en	/r/RelatedTo
+/c/af/1_konings	/c/en/biblical	1.0	/d/wiktionary/en	/r/HasContext
+/c/en/tiger	/c/en/zoo	1.0	/d/wiktionary/en	/r/RelatedTo
+/c/en/word	/c/en/language	1.0	/d/wiktionary/en	/r/RelatedTo
+/c/en/word	/c/en/god	1.0	/d/wiktionary/en	/r/RelatedTo
+/c/en/mathematical	/c/en/unquestionalbe	1.0	/d/wiktionary/en	/r/SimilarTo
+/c/en/mathematics	/c/en/geometry	1.0	/d/wiktionary/en	/r/RelatedTo
+/c/en/anthrax	/c/en/disease	1.0	/d/wiktionary/en	/r/IsA
+/c/en/quaquaversal	/c/en/astronomy	0.7516333476713518	/d/wiktionary/en	/r/HasContext
+/c/ja/花見	/c/ja/感動する	0.7000000000000002	/d/conceptnet/4/ja	/r/HasSubevent

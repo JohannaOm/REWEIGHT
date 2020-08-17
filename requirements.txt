@@ -1,0 +1,8 @@
+nltk
+pandas
+tables
+tqdm
+plotly
+scipy
+matplotlib
+natsort

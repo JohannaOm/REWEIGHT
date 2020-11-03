@@ -41,8 +41,8 @@ The following links can be used to download the weighted KGs and
 KG enriched embeddings presented in the paper:
 * Weighted Knowledge Graphs
     * ConceptNet REWEIGHT: *Link will be provided soon.*
-    * ConceptNet REWEIGHT<sub>light</sub>: *Link will be provided soon.*
+    * ConceptNet REWEIGHT<sub>light</sub>: https://dmir.org/LM4KG/conceptnet_REWEIGHTed_light.csv.bz2
 * Knowledge Graph enriched word embeddings (through retrofitting):
     * ConceptNet NumBERTBatch: *Link will be provided soon.*
-    * ConceptNet NumBERTBatch<sub>light</sub>: *Link will be provided soon.*
+    * ConceptNet NumBERTBatch<sub>light</sub>: https://dmir.org/LM4KG/embeddings_light.h5.bz2
     
